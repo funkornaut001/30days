@@ -27,11 +27,11 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: 'Header-Component',
-})
+  name: "Header-Component",
+});
 </script>
 
 <style scoped>
