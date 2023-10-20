@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Funkornaut" src="../assets/cone_gnar.jpg" />
-    <HelloWorld msg="Hello I'm Trevor" />
+    <!-- <img alt="Funkornaut" src="../assets/cone_gnar.jpg" /> -->
+    <HelloWorld msg="Making Web3 Safer" />
   </div>
 </template>
 

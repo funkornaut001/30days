@@ -1,6 +1,11 @@
+<!-- prettier-ignore -->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>
+      Gm, I'm Trevor, aka Funkornaut, a self taught blockchain developer
+      and Smart Contract auditor.
+    </p>
   </div>
 </template>
 
